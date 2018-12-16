@@ -1,0 +1,150 @@
+Body,Date,From,From email,In-Reply-To,Message-ID,Subject,To,To email,Spam,Starter
+"Hi both, can you let me know ideal times for meeting please?
+",2017-11-02 18:58:15,Carmella Draeger <carmella@example.com>,carmella@example.com,,1,Meeting,"Celia Prince <celia@example.com>, Alisson Silva <alisson@example.com>","['celia@example.com', 'alisson@example.com']",False,True
+"Hey Carmella,
+
+Tuesday would be best for me. I'm otherwise very busy.
+
+Best,
+Celia
+
+> Hi both, can you let me know ideal times for meeting please?
+",2017-11-02 20:38:12,Celia Prince <celia@example.com>,celia@example.com,1,2,RE: Meeting,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,False
+"Wide open, literally any day works!
+",2017-11-02 20:42:55,Alisson Silva <alisson@example.com>,alisson@example.com,,3,Re: Meeting,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,False
+"We should chat about the meeting you're planning ASAP, swing by my desk
+
+Sent from my iPhone
+",2017-11-03 07:12:34,Andy Chavez <andy@example.com>,andy@example.com,,4,Meeting,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,True
+"Really excited to see where you three get to on this!
+
+> Hey Carmella,
+>
+> Tuesday the 14th would be best for me. I'm otherwise very busy.
+>
+> Best,
+> Celia
+>>
+>>> Hi both, can you let me know ideal times for meeting please?
+",2017-11-03 12:13:01,Iyana Novak <iyana@example.com>,iyana@example.com,2,6,RE: Meeting,"Carmella Draeger <carmella@example.com>, Alisson Silva <alisson@example.com>, Celia Prince <celia@example.com>","['carmella@example.com', 'alisson@example.com', 'celia@example.com']",False,False
+"[-Iyana]
+
+Ok we're all free today so let's go shortly.
+
+I'll text you both when I find a room.
+
+> Really excited to see where you three get to on this!
+>
+>> Hey Carmella,
+>>
+>> Tuesday would be best for me. I'm otherwise very busy.
+>>
+>> Best,
+>> Celia
+>>>
+>>>> Hi both, can you let me know ideal times for meeting please?
+",2017-11-03 14:28:11,Carmella Draeger <carmella@example.com>,carmella@example.com,6,7,RE: Meeting,"Alisson Silva <alisson@example.com>, Celia Prince <celia@example.com>","['alisson@example.com', 'celia@example.com']",False,False
+"Great meeting!
+
+Summary:
+- Alisson will circulate minutes within a week
+- Carm to confirm everything with Iyana
+- Celia to get back on costing
+
+> [-Iyana]
+>
+> Ok we're all free today so let's go shortly.
+>
+> I'll text you both when I find a room.
+>
+>> Really excited to see where you three get to on this!
+>>
+>>> Hey Carmella,
+>>>
+>>> Tuesday would be best for me. I'm otherwise very busy.
+>>>
+>>> Best,
+>>> Celia
+>>>>
+>>>>> Hi both, can you let me know ideal times for meeting please?
+",2017-11-03 20:28:17,Carmella Draeger <carmella@example.com>,carmella@example.com,7,8,RE: Meeting,"Alisson Silva <alisson@example.com>, Celia Prince <celia@example.com>","['alisson@example.com', 'celia@example.com']",False,False
+"Check out this deal - available today only!
+
+https://redhot.deals/3f98j23/fidget-spinners-reduced-to-clear
+",2017-11-04 11:22:00,Red Hot Deals!!! <promotions@example.com>,promotions@example.com,,5,Fidget spinners REDUCED TO CLEAR,Carmella Draeger <carmella@example.com>,['carmella@example.com'],True,True
+"Did it happen yet?
+",2017-11-05 07:44:59,Iyana Novak <iyana@example.com>,iyana@example.com,,9,Meeting,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,True
+"Sorry! Yes. I'd removed you from the thread, will forward.
+
+> Did it happen yet?
+",2017-11-05 07:49:12,Carmella Draeger <carmella@example.com>,carmella@example.com,9,10,Meeting,Iyana Novak <iyana@example.com>,['iyana@example.com'],False,False
+"Forwarded message:
+
+Great meeting!
+
+Summary:
+- Alisson will circulate minutes within a week
+- Carm to confirm everything with Iyana
+- Celia to get back on costing
+
+> [-Iyana]
+>
+> Ok we're all free today so let's go shortly.
+>
+> I'll text you both when I find a room.
+>
+>> Really excited to see where you three get to on this!
+>>
+>>> Hey Carmella,
+>>>
+>>> Tuesday would be best for me. I'm otherwise very busy.
+>>>
+>>> Best,
+>>> Celia
+>>>>
+>>>>> Hi both, can you let me know ideal times for meeting please?
+",2017-11-05 08:01:02,Carmella Draeger <carmella@example.com>,carmella@example.com,,11,Fw: Meeting,Iyana Novak <iyana@example.com>,['iyana@example.com'],False,False
+"Hi Carm,
+
+I could really do with your help on the project.
+
+Would you be able to give me a call whenever suits?
+
+Alisson
+",2017-11-05 19:21:30,Alisson Silva <alisson@example.com>,alisson@example.com,,12,Having some issues,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,True
+"Alisson, I'm stuck on a long call but will ping you once finished.
+
+We'll figure it out!!!!
+
+> Hi Carm,
+>
+> I could really do with your help on the project.
+>
+> Would you be able to give me a call whenever suits?
+>
+> Alisson
+",2017-11-05 19:22:02,Carmella Draeger <carmella@example.com>,carmella@example.com,12,13,RE: Having some issues,Alisson Silva <alisson@example.com>,['alisson@example.com'],False,False
+"Thanks Carm :-)
+
+> Alisson, I'm stuck on a long call but will ping you once finished.
+>
+> We'll figure it out!!!!
+>
+>> Hi Carm,
+>>
+>> I could really do with your help on the project.
+>>
+>> Would you be able to give me a call whenever suits?
+>>
+>> Alisson
+",2017-11-05 19:23:47,Alisson Silva <alisson@example.com>,alisson@example.com,,14,Re RE: Having some issues,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,False
+"We've extended our sale for one more day! Act now!
+
+https://redhot.deals/3f98j23/fidget-spinners-reduced-to-clear
+",2017-11-06 09:20:00,Red Hot Deals!!! <promotions@example.com>,promotions@example.com,,15,Fidget spinners REDUCED TO CLEAR,Carmella Draeger <carmella@example.com>,['carmella@example.com'],True,True
+"From our cruise partner! Check it out!
+
+https://redhot.deals/g91js940/bargain-cruises-caribbean
+",2017-11-06 10:22:00,Red Hot Deals!!! <promotions@example.com>,promotions@example.com,,16,Bargain Cruises,Carmella Draeger <carmella@example.com>,['carmella@example.com'],True,True
+"Can we chat about the next meeting when you have a chance?
+",2017-11-15 08:41:26,Andy Chavez <andy@example.com>,andy@example.com,,17,Meeting,Carmella Draeger <carmella@example.com>,['carmella@example.com'],False,True

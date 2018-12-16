@@ -1,0 +1,7 @@
+# Ignore everything
+/email_parser/share/*
+/email_parser/local/*
+/email_parser/lib/*
+/email_parser/include/*
+/email_parser/bin/*
+/email_parser/etc/*
